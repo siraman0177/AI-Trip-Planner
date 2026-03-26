@@ -1,0 +1,6 @@
+pandas
+geocoder
+requests
+langchain
+langchain-community
+openai
