@@ -1,0 +1,802 @@
+[
+  {
+    "name": "Beach Spot RIS-1",
+    "destination": "Rishikesh",
+    "type": "beach",
+    "price": 515.18,
+    "rating": 4.6,
+    "reviews": 2204
+  },
+  {
+    "name": "Shopping Spot DEL-2",
+    "destination": "Delhi",
+    "type": "shopping",
+    "price": 1031.08,
+    "rating": 3.9,
+    "reviews": 2232
+  },
+  {
+    "name": "Adventure Spot KER-3",
+    "destination": "Kerala",
+    "type": "adventure",
+    "price": 228.52,
+    "rating": 4.4,
+    "reviews": 1597
+  },
+  {
+    "name": "Adventure Spot RIS-4",
+    "destination": "Rishikesh",
+    "type": "adventure",
+    "price": 1245.2,
+    "rating": 4.6,
+    "reviews": 1737
+  },
+  {
+    "name": "Shopping Spot KER-5",
+    "destination": "Kerala",
+    "type": "shopping",
+    "price": 1014.94,
+    "rating": 4.2,
+    "reviews": 2870
+  },
+  {
+    "name": "Beach Spot DEH-6",
+    "destination": "Dehradun",
+    "type": "beach",
+    "price": 366.07,
+    "rating": 3.8,
+    "reviews": 1605
+  },
+  {
+    "name": "Food Spot VAR-7",
+    "destination": "Varanasi",
+    "type": "food",
+    "price": 1090.61,
+    "rating": 3.5,
+    "reviews": 978
+  },
+  {
+    "name": "Spiritual Spot LUC-8",
+    "destination": "Lucknow",
+    "type": "spiritual",
+    "price": 1420.12,
+    "rating": 4.6,
+    "reviews": 685
+  },
+  {
+    "name": "Adventure Spot KAN-9",
+    "destination": "Kanpur",
+    "type": "adventure",
+    "price": 1302.91,
+    "rating": 4.2,
+    "reviews": 4090
+  },
+  {
+    "name": "Heritage Spot VAR-10",
+    "destination": "Varanasi",
+    "type": "heritage",
+    "price": 350.61,
+    "rating": 4.0,
+    "reviews": 4373
+  },
+  {
+    "name": "Spiritual Spot LUC-11",
+    "destination": "Lucknow",
+    "type": "spiritual",
+    "price": 1446.7,
+    "rating": 4.6,
+    "reviews": 3052
+  },
+  {
+    "name": "Food Spot KAN-12",
+    "destination": "Kanpur",
+    "type": "food",
+    "price": 882.56,
+    "rating": 3.8,
+    "reviews": 2069
+  },
+  {
+    "name": "Shopping Spot DEL-13",
+    "destination": "Delhi",
+    "type": "shopping",
+    "price": 981.91,
+    "rating": 4.9,
+    "reviews": 1750
+  },
+  {
+    "name": "Food Spot GOA-14",
+    "destination": "Goa",
+    "type": "food",
+    "price": 341.34,
+    "rating": 4.9,
+    "reviews": 3614
+  },
+  {
+    "name": "Spiritual Spot KAN-15",
+    "destination": "Kanpur",
+    "type": "spiritual",
+    "price": 1056.21,
+    "rating": 4.2,
+    "reviews": 396
+  },
+  {
+    "name": "Adventure Spot GOA-16",
+    "destination": "Goa",
+    "type": "adventure",
+    "price": 751.89,
+    "rating": 3.7,
+    "reviews": 1362
+  },
+  {
+    "name": "Food Spot DEL-17",
+    "destination": "Delhi",
+    "type": "food",
+    "price": 840.31,
+    "rating": 3.6,
+    "reviews": 330
+  },
+  {
+    "name": "Food Spot VAR-18",
+    "destination": "Varanasi",
+    "type": "food",
+    "price": 1426.6,
+    "rating": 4.6,
+    "reviews": 3434
+  },
+  {
+    "name": "Heritage Spot KER-19",
+    "destination": "Kerala",
+    "type": "heritage",
+    "price": 250.51,
+    "rating": 4.7,
+    "reviews": 2809
+  },
+  {
+    "name": "Shopping Spot RIS-20",
+    "destination": "Rishikesh",
+    "type": "shopping",
+    "price": 482.48,
+    "rating": 4.2,
+    "reviews": 3637
+  },
+  {
+    "name": "Shopping Spot MUM-21",
+    "destination": "Mumbai",
+    "type": "shopping",
+    "price": 220.71,
+    "rating": 3.9,
+    "reviews": 1623
+  },
+  {
+    "name": "Beach Spot KAN-22",
+    "destination": "Kanpur",
+    "type": "beach",
+    "price": 110.92,
+    "rating": 4.6,
+    "reviews": 490
+  },
+  {
+    "name": "Beach Spot GOA-23",
+    "destination": "Goa",
+    "type": "beach",
+    "price": 999.59,
+    "rating": 3.5,
+    "reviews": 3180
+  },
+  {
+    "name": "Shopping Spot DEL-24",
+    "destination": "Delhi",
+    "type": "shopping",
+    "price": 1498.59,
+    "rating": 4.8,
+    "reviews": 2967
+  },
+  {
+    "name": "Adventure Spot DEH-25",
+    "destination": "Dehradun",
+    "type": "adventure",
+    "price": 941.08,
+    "rating": 4.8,
+    "reviews": 867
+  },
+  {
+    "name": "Adventure Spot JAI-26",
+    "destination": "Jaipur",
+    "type": "adventure",
+    "price": 453.57,
+    "rating": 4.9,
+    "reviews": 1336
+  },
+  {
+    "name": "Nature Spot JAI-27",
+    "destination": "Jaipur",
+    "type": "nature",
+    "price": 1448.95,
+    "rating": 4.0,
+    "reviews": 3285
+  },
+  {
+    "name": "Shopping Spot KAN-28",
+    "destination": "Kanpur",
+    "type": "shopping",
+    "price": 216.17,
+    "rating": 4.6,
+    "reviews": 1087
+  },
+  {
+    "name": "Food Spot GOA-29",
+    "destination": "Goa",
+    "type": "food",
+    "price": 487.38,
+    "rating": 3.9,
+    "reviews": 4295
+  },
+  {
+    "name": "Heritage Spot LUC-30",
+    "destination": "Lucknow",
+    "type": "heritage",
+    "price": 1484.62,
+    "rating": 4.0,
+    "reviews": 4646
+  },
+  {
+    "name": "Nature Spot JAI-31",
+    "destination": "Jaipur",
+    "type": "nature",
+    "price": 303.21,
+    "rating": 3.7,
+    "reviews": 4799
+  },
+  {
+    "name": "Beach Spot VAR-32",
+    "destination": "Varanasi",
+    "type": "beach",
+    "price": 1186.3,
+    "rating": 4.1,
+    "reviews": 2540
+  },
+  {
+    "name": "Nature Spot MUM-33",
+    "destination": "Mumbai",
+    "type": "nature",
+    "price": 824.06,
+    "rating": 3.6,
+    "reviews": 2457
+  },
+  {
+    "name": "Beach Spot JAI-34",
+    "destination": "Jaipur",
+    "type": "beach",
+    "price": 1481.53,
+    "rating": 4.5,
+    "reviews": 1717
+  },
+  {
+    "name": "Nature Spot MUM-35",
+    "destination": "Mumbai",
+    "type": "nature",
+    "price": 312.09,
+    "rating": 4.4,
+    "reviews": 388
+  },
+  {
+    "name": "Beach Spot DEL-36",
+    "destination": "Delhi",
+    "type": "beach",
+    "price": 1401.28,
+    "rating": 4.7,
+    "reviews": 442
+  },
+  {
+    "name": "Spiritual Spot GOA-37",
+    "destination": "Goa",
+    "type": "spiritual",
+    "price": 1000.23,
+    "rating": 4.9,
+    "reviews": 2651
+  },
+  {
+    "name": "Heritage Spot RIS-38",
+    "destination": "Rishikesh",
+    "type": "heritage",
+    "price": 288.83,
+    "rating": 3.9,
+    "reviews": 4329
+  },
+  {
+    "name": "Shopping Spot RIS-39",
+    "destination": "Rishikesh",
+    "type": "shopping",
+    "price": 55.42,
+    "rating": 4.7,
+    "reviews": 439
+  },
+  {
+    "name": "Nature Spot MUM-40",
+    "destination": "Mumbai",
+    "type": "nature",
+    "price": 459.66,
+    "rating": 3.5,
+    "reviews": 2211
+  },
+  {
+    "name": "Shopping Spot JAI-41",
+    "destination": "Jaipur",
+    "type": "shopping",
+    "price": 686.36,
+    "rating": 4.7,
+    "reviews": 2743
+  },
+  {
+    "name": "Nature Spot VAR-42",
+    "destination": "Varanasi",
+    "type": "nature",
+    "price": 573.35,
+    "rating": 4.3,
+    "reviews": 4342
+  },
+  {
+    "name": "Nature Spot DEH-43",
+    "destination": "Dehradun",
+    "type": "nature",
+    "price": 368.2,
+    "rating": 4.7,
+    "reviews": 4510
+  },
+  {
+    "name": "Beach Spot DEL-44",
+    "destination": "Delhi",
+    "type": "beach",
+    "price": 1496.64,
+    "rating": 4.3,
+    "reviews": 4731
+  },
+  {
+    "name": "Heritage Spot DEH-45",
+    "destination": "Dehradun",
+    "type": "heritage",
+    "price": 725.46,
+    "rating": 4.5,
+    "reviews": 1200
+  },
+  {
+    "name": "Beach Spot KAN-46",
+    "destination": "Kanpur",
+    "type": "beach",
+    "price": 320.93,
+    "rating": 4.8,
+    "reviews": 2041
+  },
+  {
+    "name": "Shopping Spot KAN-47",
+    "destination": "Kanpur",
+    "type": "shopping",
+    "price": 455.3,
+    "rating": 3.6,
+    "reviews": 3239
+  },
+  {
+    "name": "Nature Spot RIS-48",
+    "destination": "Rishikesh",
+    "type": "nature",
+    "price": 572.86,
+    "rating": 4.6,
+    "reviews": 786
+  },
+  {
+    "name": "Spiritual Spot KAN-49",
+    "destination": "Kanpur",
+    "type": "spiritual",
+    "price": 670.34,
+    "rating": 3.8,
+    "reviews": 3693
+  },
+  {
+    "name": "Heritage Spot KAN-50",
+    "destination": "Kanpur",
+    "type": "heritage",
+    "price": 691.53,
+    "rating": 4.7,
+    "reviews": 1818
+  },
+  {
+    "name": "Shopping Spot DEL-51",
+    "destination": "Delhi",
+    "type": "shopping",
+    "price": 339.88,
+    "rating": 3.8,
+    "reviews": 2232
+  },
+  {
+    "name": "Spiritual Spot GOA-52",
+    "destination": "Goa",
+    "type": "spiritual",
+    "price": 246.93,
+    "rating": 4.2,
+    "reviews": 4387
+  },
+  {
+    "name": "Spiritual Spot GOA-53",
+    "destination": "Goa",
+    "type": "spiritual",
+    "price": 1396.47,
+    "rating": 3.9,
+    "reviews": 4556
+  },
+  {
+    "name": "Nature Spot MUM-54",
+    "destination": "Mumbai",
+    "type": "nature",
+    "price": 376.65,
+    "rating": 4.2,
+    "reviews": 4054
+  },
+  {
+    "name": "Spiritual Spot DEL-55",
+    "destination": "Delhi",
+    "type": "spiritual",
+    "price": 98.46,
+    "rating": 3.9,
+    "reviews": 751
+  },
+  {
+    "name": "Nature Spot KAN-56",
+    "destination": "Kanpur",
+    "type": "nature",
+    "price": 881.59,
+    "rating": 3.8,
+    "reviews": 4752
+  },
+  {
+    "name": "Adventure Spot JAI-57",
+    "destination": "Jaipur",
+    "type": "adventure",
+    "price": 659.99,
+    "rating": 4.1,
+    "reviews": 4719
+  },
+  {
+    "name": "Adventure Spot KAN-58",
+    "destination": "Kanpur",
+    "type": "adventure",
+    "price": 762.99,
+    "rating": 4.6,
+    "reviews": 4591
+  },
+  {
+    "name": "Spiritual Spot JAI-59",
+    "destination": "Jaipur",
+    "type": "spiritual",
+    "price": 1127.4,
+    "rating": 3.5,
+    "reviews": 2732
+  },
+  {
+    "name": "Adventure Spot JAI-60",
+    "destination": "Jaipur",
+    "type": "adventure",
+    "price": 153.75,
+    "rating": 3.7,
+    "reviews": 868
+  },
+  {
+    "name": "Beach Spot KAN-61",
+    "destination": "Kanpur",
+    "type": "beach",
+    "price": 956.95,
+    "rating": 4.4,
+    "reviews": 3254
+  },
+  {
+    "name": "Adventure Spot KER-62",
+    "destination": "Kerala",
+    "type": "adventure",
+    "price": 42.86,
+    "rating": 3.9,
+    "reviews": 1015
+  },
+  {
+    "name": "Shopping Spot DEL-63",
+    "destination": "Delhi",
+    "type": "shopping",
+    "price": 519.98,
+    "rating": 4.0,
+    "reviews": 754
+  },
+  {
+    "name": "Heritage Spot VAR-64",
+    "destination": "Varanasi",
+    "type": "heritage",
+    "price": 1139.47,
+    "rating": 5.0,
+    "reviews": 2108
+  },
+  {
+    "name": "Spiritual Spot GOA-65",
+    "destination": "Goa",
+    "type": "spiritual",
+    "price": 1308.02,
+    "rating": 4.8,
+    "reviews": 1539
+  },
+  {
+    "name": "Nature Spot KER-66",
+    "destination": "Kerala",
+    "type": "nature",
+    "price": 315.43,
+    "rating": 4.5,
+    "reviews": 1738
+  },
+  {
+    "name": "Adventure Spot DEH-67",
+    "destination": "Dehradun",
+    "type": "adventure",
+    "price": 667.15,
+    "rating": 4.9,
+    "reviews": 4120
+  },
+  {
+    "name": "Shopping Spot DEL-68",
+    "destination": "Delhi",
+    "type": "shopping",
+    "price": 347.01,
+    "rating": 3.8,
+    "reviews": 1799
+  },
+  {
+    "name": "Beach Spot KER-69",
+    "destination": "Kerala",
+    "type": "beach",
+    "price": 809.75,
+    "rating": 4.6,
+    "reviews": 795
+  },
+  {
+    "name": "Nature Spot LUC-70",
+    "destination": "Lucknow",
+    "type": "nature",
+    "price": 1476.17,
+    "rating": 4.8,
+    "reviews": 2019
+  },
+  {
+    "name": "Spiritual Spot JAI-71",
+    "destination": "Jaipur",
+    "type": "spiritual",
+    "price": 1232.53,
+    "rating": 4.4,
+    "reviews": 1606
+  },
+  {
+    "name": "Nature Spot GOA-72",
+    "destination": "Goa",
+    "type": "nature",
+    "price": 773.79,
+    "rating": 3.6,
+    "reviews": 1250
+  },
+  {
+    "name": "Adventure Spot MUM-73",
+    "destination": "Mumbai",
+    "type": "adventure",
+    "price": 1420.94,
+    "rating": 4.9,
+    "reviews": 2538
+  },
+  {
+    "name": "Shopping Spot MUM-74",
+    "destination": "Mumbai",
+    "type": "shopping",
+    "price": 863.43,
+    "rating": 4.9,
+    "reviews": 4363
+  },
+  {
+    "name": "Beach Spot MUM-75",
+    "destination": "Mumbai",
+    "type": "beach",
+    "price": 962.45,
+    "rating": 3.7,
+    "reviews": 793
+  },
+  {
+    "name": "Nature Spot JAI-76",
+    "destination": "Jaipur",
+    "type": "nature",
+    "price": 921.13,
+    "rating": 3.6,
+    "reviews": 4535
+  },
+  {
+    "name": "Adventure Spot DEH-77",
+    "destination": "Dehradun",
+    "type": "adventure",
+    "price": 1422.35,
+    "rating": 3.6,
+    "reviews": 365
+  },
+  {
+    "name": "Adventure Spot JAI-78",
+    "destination": "Jaipur",
+    "type": "adventure",
+    "price": 9.87,
+    "rating": 3.6,
+    "reviews": 4776
+  },
+  {
+    "name": "Spiritual Spot JAI-79",
+    "destination": "Jaipur",
+    "type": "spiritual",
+    "price": 1409.17,
+    "rating": 4.5,
+    "reviews": 4584
+  },
+  {
+    "name": "Nature Spot LUC-80",
+    "destination": "Lucknow",
+    "type": "nature",
+    "price": 1489.72,
+    "rating": 4.0,
+    "reviews": 3493
+  },
+  {
+    "name": "Food Spot KER-81",
+    "destination": "Kerala",
+    "type": "food",
+    "price": 1048.66,
+    "rating": 4.8,
+    "reviews": 3799
+  },
+  {
+    "name": "Heritage Spot RIS-82",
+    "destination": "Rishikesh",
+    "type": "heritage",
+    "price": 93.16,
+    "rating": 4.3,
+    "reviews": 1461
+  },
+  {
+    "name": "Nature Spot LUC-83",
+    "destination": "Lucknow",
+    "type": "nature",
+    "price": 391.18,
+    "rating": 4.4,
+    "reviews": 789
+  },
+  {
+    "name": "Adventure Spot KAN-84",
+    "destination": "Kanpur",
+    "type": "adventure",
+    "price": 3.98,
+    "rating": 4.7,
+    "reviews": 3354
+  },
+  {
+    "name": "Nature Spot DEH-85",
+    "destination": "Dehradun",
+    "type": "nature",
+    "price": 502.16,
+    "rating": 4.5,
+    "reviews": 4237
+  },
+  {
+    "name": "Nature Spot GOA-86",
+    "destination": "Goa",
+    "type": "nature",
+    "price": 65.07,
+    "rating": 4.0,
+    "reviews": 3066
+  },
+  {
+    "name": "Spiritual Spot DEH-87",
+    "destination": "Dehradun",
+    "type": "spiritual",
+    "price": 625.82,
+    "rating": 3.6,
+    "reviews": 4855
+  },
+  {
+    "name": "Food Spot GOA-88",
+    "destination": "Goa",
+    "type": "food",
+    "price": 518.02,
+    "rating": 5.0,
+    "reviews": 1427
+  },
+  {
+    "name": "Food Spot JAI-89",
+    "destination": "Jaipur",
+    "type": "food",
+    "price": 196.31,
+    "rating": 4.2,
+    "reviews": 1964
+  },
+  {
+    "name": "Heritage Spot VAR-90",
+    "destination": "Varanasi",
+    "type": "heritage",
+    "price": 723.24,
+    "rating": 4.1,
+    "reviews": 3597
+  },
+  {
+    "name": "Food Spot MUM-91",
+    "destination": "Mumbai",
+    "type": "food",
+    "price": 438.36,
+    "rating": 3.7,
+    "reviews": 4056
+  },
+  {
+    "name": "Food Spot DEH-92",
+    "destination": "Dehradun",
+    "type": "food",
+    "price": 1329.74,
+    "rating": 4.6,
+    "reviews": 1181
+  },
+  {
+    "name": "Food Spot DEH-93",
+    "destination": "Dehradun",
+    "type": "food",
+    "price": 492.38,
+    "rating": 4.1,
+    "reviews": 3706
+  },
+  {
+    "name": "Adventure Spot DEH-94",
+    "destination": "Dehradun",
+    "type": "adventure",
+    "price": 775.42,
+    "rating": 4.5,
+    "reviews": 4983
+  },
+  {
+    "name": "Nature Spot JAI-95",
+    "destination": "Jaipur",
+    "type": "nature",
+    "price": 844.33,
+    "rating": 4.5,
+    "reviews": 1448
+  },
+  {
+    "name": "Heritage Spot MUM-96",
+    "destination": "Mumbai",
+    "type": "heritage",
+    "price": 614.91,
+    "rating": 4.0,
+    "reviews": 3530
+  },
+  {
+    "name": "Heritage Spot RIS-97",
+    "destination": "Rishikesh",
+    "type": "heritage",
+    "price": 1365.69,
+    "rating": 3.7,
+    "reviews": 314
+  },
+  {
+    "name": "Adventure Spot RIS-98",
+    "destination": "Rishikesh",
+    "type": "adventure",
+    "price": 836.4,
+    "rating": 4.8,
+    "reviews": 4405
+  },
+  {
+    "name": "Heritage Spot RIS-99",
+    "destination": "Rishikesh",
+    "type": "heritage",
+    "price": 562.55,
+    "rating": 5.0,
+    "reviews": 218
+  },
+  {
+    "name": "Beach Spot GOA-100",
+    "destination": "Goa",
+    "type": "beach",
+    "price": 1213.58,
+    "rating": 3.7,
+    "reviews": 2697
+  }
+]

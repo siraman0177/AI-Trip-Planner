@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Serenity Suites GOA-1",
+    "destination": "Goa",
+    "price": 8891.87,
+    "rating": 4.0,
+    "distance": 4.6
+  },
+  {
+    "name": "Royal Stay VAR-2",
+    "destination": "Varanasi",
+    "price": 11208.9,
+    "rating": 3.4,
+    "distance": 2.2
+  },
+  {
+    "name": "Palm View Inn MUM-3",
+    "destination": "Mumbai",
+    "price": 10960.84,
+    "rating": 3.4,
+    "distance": 5.9
+  },
+  {
+    "name": "Comfort Inn GOA-4",
+    "destination": "Goa",
+    "price": 8264.89,
+    "rating": 3.4,
+    "distance": 1.3
+  },
+  {
+    "name": "Seaside Resort GOA-5",
+    "destination": "Goa",
+    "price": 2282.46,
+    "rating": 4.6,
+    "distance": 0.6
+  },
+  {
+    "name": "Blue Lagoon LUC-6",
+    "destination": "Lucknow",
+    "price": 2183.8,
+    "rating": 4.4,
+    "distance": 1.6
+  },
+  {
+    "name": "Ocean Pearl RIS-7",
+    "destination": "Rishikesh",
+    "price": 3125.54,
+    "rating": 3.0,
+    "distance": 5.1
+  },
+  {
+    "name": "Skyline Hotel VAR-8",
+    "destination": "Varanasi",
+    "price": 7782.59,
+    "rating": 4.3,
+    "distance": 1.6
+  },
+  {
+    "name": "Ocean Pearl GOA-9",
+    "destination": "Goa",
+    "price": 6169.71,
+    "rating": 4.1,
+    "distance": 9.7
+  },
+  {
+    "name": "Serenity Suites MUM-10",
+    "destination": "Mumbai",
+    "price": 9990.1,
+    "rating": 3.5,
+    "distance": 9.2
+  },
+  {
+    "name": "Ocean Pearl LUC-11",
+    "destination": "Lucknow",
+    "price": 9725.77,
+    "rating": 3.2,
+    "distance": 7.4
+  },
+  {
+    "name": "Mountain View RIS-12",
+    "destination": "Rishikesh",
+    "price": 7708.94,
+    "rating": 4.9,
+    "distance": 4.3
+  },
+  {
+    "name": "Skyline Hotel KER-13",
+    "destination": "Kerala",
+    "price": 7065.5,
+    "rating": 3.3,
+    "distance": 9.8
+  },
+  {
+    "name": "Mountain View MUM-14",
+    "destination": "Mumbai",
+    "price": 9569.8,
+    "rating": 3.7,
+    "distance": 2.7
+  },
+  {
+    "name": "Comfort Inn RIS-15",
+    "destination": "Rishikesh",
+    "price": 8031.83,
+    "rating": 4.5,
+    "distance": 8.2
+  },
+  {
+    "name": "Ocean Pearl VAR-16",
+    "destination": "Varanasi",
+    "price": 2203.11,
+    "rating": 3.7,
+    "distance": 9.2
+  },
+  {
+    "name": "Royal Stay VAR-17",
+    "destination": "Varanasi",
+    "price": 3313.65,
+    "rating": 3.3,
+    "distance": 0.7
+  },
+  {
+    "name": "Blue Lagoon KER-18",
+    "destination": "Kerala",
+    "price": 6860.4,
+    "rating": 3.8,
+    "distance": 5.8
+  },
+  {
+    "name": "Palm View Inn KER-19",
+    "destination": "Kerala",
+    "price": 6212.33,
+    "rating": 3.8,
+    "distance": 0.6
+  },
+  {
+    "name": "Serenity Suites KER-20",
+    "destination": "Kerala",
+    "price": 3904.21,
+    "rating": 4.0,
+    "distance": 7.5
+  },
+  {
+    "name": "Urban Nest KER-21",
+    "destination": "Kerala",
+    "price": 10579.65,
+    "rating": 4.9,
+    "distance": 7.3
+  },
+  {
+    "name": "Urban Nest KAN-22",
+    "destination": "Kanpur",
+    "price": 5004.77,
+    "rating": 3.9,
+    "distance": 4.4
+  },
+  {
+    "name": "Urban Nest KER-23",
+    "destination": "Kerala",
+    "price": 5037.16,
+    "rating": 4.8,
+    "distance": 1.7
+  },
+  {
+    "name": "Comfort Inn KER-24",
+    "destination": "Kerala",
+    "price": 6566.44,
+    "rating": 3.2,
+    "distance": 3.6
+  },
+  {
+    "name": "Ocean Pearl KAN-25",
+    "destination": "Kanpur",
+    "price": 10794.34,
+    "rating": 4.4,
+    "distance": 6.5
+  },
+  {
+    "name": "Ocean Pearl DEL-26",
+    "destination": "Delhi",
+    "price": 7403.2,
+    "rating": 4.1,
+    "distance": 6.6
+  },
+  {
+    "name": "Skyline Hotel DEH-27",
+    "destination": "Dehradun",
+    "price": 3625.41,
+    "rating": 4.0,
+    "distance": 5.9
+  },
+  {
+    "name": "Comfort Inn LUC-28",
+    "destination": "Lucknow",
+    "price": 2900.5,
+    "rating": 3.9,
+    "distance": 1.1
+  },
+  {
+    "name": "Urban Nest KER-29",
+    "destination": "Kerala",
+    "price": 7637.81,
+    "rating": 4.7,
+    "distance": 3.2
+  },
+  {
+    "name": "Skyline Hotel GOA-30",
+    "destination": "Goa",
+    "price": 5465.1,
+    "rating": 4.8,
+    "distance": 2.5
+  },
+  {
+    "name": "Skyline Hotel RIS-31",
+    "destination": "Rishikesh",
+    "price": 11779.13,
+    "rating": 4.9,
+    "distance": 8.5
+  },
+  {
+    "name": "Royal Stay RIS-32",
+    "destination": "Rishikesh",
+    "price": 10507.47,
+    "rating": 3.3,
+    "distance": 4.7
+  },
+  {
+    "name": "Skyline Hotel VAR-33",
+    "destination": "Varanasi",
+    "price": 5108.08,
+    "rating": 3.2,
+    "distance": 0.6
+  },
+  {
+    "name": "Skyline Hotel GOA-34",
+    "destination": "Goa",
+    "price": 7940.42,
+    "rating": 4.5,
+    "distance": 7.2
+  },
+  {
+    "name": "Ocean Pearl DEH-35",
+    "destination": "Dehradun",
+    "price": 11662.22,
+    "rating": 4.0,
+    "distance": 8.2
+  },
+  {
+    "name": "Skyline Hotel KER-36",
+    "destination": "Kerala",
+    "price": 5144.9,
+    "rating": 4.5,
+    "distance": 6.5
+  },
+  {
+    "name": "Royal Stay MUM-37",
+    "destination": "Mumbai",
+    "price": 2998.74,
+    "rating": 4.2,
+    "distance": 8.4
+  },
+  {
+    "name": "Serenity Suites LUC-38",
+    "destination": "Lucknow",
+    "price": 11614.25,
+    "rating": 3.7,
+    "distance": 0.9
+  },
+  {
+    "name": "Mountain View RIS-39",
+    "destination": "Rishikesh",
+    "price": 11249.54,
+    "rating": 3.4,
+    "distance": 0.6
+  },
+  {
+    "name": "Palm View Inn KER-40",
+    "destination": "Kerala",
+    "price": 8510.17,
+    "rating": 4.2,
+    "distance": 8.6
+  },
+  {
+    "name": "Palm View Inn MUM-41",
+    "destination": "Mumbai",
+    "price": 4414.65,
+    "rating": 3.1,
+    "distance": 8.4
+  },
+  {
+    "name": "Comfort Inn GOA-42",
+    "destination": "Goa",
+    "price": 3898.74,
+    "rating": 3.1,
+    "distance": 9.3
+  },
+  {
+    "name": "Ocean Pearl DEL-43",
+    "destination": "Delhi",
+    "price": 11655.86,
+    "rating": 3.8,
+    "distance": 5.7
+  },
+  {
+    "name": "Ocean Pearl DEH-44",
+    "destination": "Dehradun",
+    "price": 11007.97,
+    "rating": 3.0,
+    "distance": 6.8
+  },
+  {
+    "name": "Skyline Hotel VAR-45",
+    "destination": "Varanasi",
+    "price": 2122.32,
+    "rating": 3.9,
+    "distance": 6.8
+  },
+  {
+    "name": "Blue Lagoon GOA-46",
+    "destination": "Goa",
+    "price": 5712.28,
+    "rating": 3.8,
+    "distance": 3.9
+  },
+  {
+    "name": "Blue Lagoon JAI-47",
+    "destination": "Jaipur",
+    "price": 6069.63,
+    "rating": 3.3,
+    "distance": 9.3
+  },
+  {
+    "name": "Blue Lagoon RIS-48",
+    "destination": "Rishikesh",
+    "price": 11572.11,
+    "rating": 4.0,
+    "distance": 9.7
+  },
+  {
+    "name": "Royal Stay GOA-49",
+    "destination": "Goa",
+    "price": 6258.7,
+    "rating": 3.8,
+    "distance": 7.8
+  },
+  {
+    "name": "Ocean Pearl VAR-50",
+    "destination": "Varanasi",
+    "price": 6114.76,
+    "rating": 3.2,
+    "distance": 9.9
+  },
+  {
+    "name": "Ocean Pearl JAI-51",
+    "destination": "Jaipur",
+    "price": 7585.47,
+    "rating": 3.1,
+    "distance": 0.6
+  },
+  {
+    "name": "Seaside Resort DEL-52",
+    "destination": "Delhi",
+    "price": 10633.22,
+    "rating": 3.8,
+    "distance": 2.1
+  },
+  {
+    "name": "Ocean Pearl VAR-53",
+    "destination": "Varanasi",
+    "price": 6567.94,
+    "rating": 3.3,
+    "distance": 2.4
+  },
+  {
+    "name": "Comfort Inn KER-54",
+    "destination": "Kerala",
+    "price": 11826.26,
+    "rating": 4.1,
+    "distance": 4.4
+  },
+  {
+    "name": "Royal Stay GOA-55",
+    "destination": "Goa",
+    "price": 4682.34,
+    "rating": 3.4,
+    "distance": 7.4
+  },
+  {
+    "name": "Royal Stay MUM-56",
+    "destination": "Mumbai",
+    "price": 8420.84,
+    "rating": 3.3,
+    "distance": 4.9
+  },
+  {
+    "name": "Mountain View MUM-57",
+    "destination": "Mumbai",
+    "price": 11158.6,
+    "rating": 4.5,
+    "distance": 9.3
+  },
+  {
+    "name": "Blue Lagoon GOA-58",
+    "destination": "Goa",
+    "price": 3268.05,
+    "rating": 3.4,
+    "distance": 1.7
+  },
+  {
+    "name": "Royal Stay JAI-59",
+    "destination": "Jaipur",
+    "price": 3838.72,
+    "rating": 3.0,
+    "distance": 3.3
+  },
+  {
+    "name": "Mountain View GOA-60",
+    "destination": "Goa",
+    "price": 4453.61,
+    "rating": 4.0,
+    "distance": 4.6
+  },
+  {
+    "name": "Urban Nest DEH-61",
+    "destination": "Dehradun",
+    "price": 9600.01,
+    "rating": 4.5,
+    "distance": 4.8
+  },
+  {
+    "name": "Comfort Inn LUC-62",
+    "destination": "Lucknow",
+    "price": 2145.48,
+    "rating": 3.7,
+    "distance": 0.9
+  },
+  {
+    "name": "Blue Lagoon JAI-63",
+    "destination": "Jaipur",
+    "price": 10428.43,
+    "rating": 3.9,
+    "distance": 1.8
+  },
+  {
+    "name": "Comfort Inn JAI-64",
+    "destination": "Jaipur",
+    "price": 6309.2,
+    "rating": 3.1,
+    "distance": 1.3
+  },
+  {
+    "name": "Skyline Hotel MUM-65",
+    "destination": "Mumbai",
+    "price": 11353.6,
+    "rating": 4.9,
+    "distance": 8.6
+  },
+  {
+    "name": "Comfort Inn GOA-66",
+    "destination": "Goa",
+    "price": 4922.58,
+    "rating": 3.7,
+    "distance": 6.0
+  },
+  {
+    "name": "Blue Lagoon GOA-67",
+    "destination": "Goa",
+    "price": 10514.96,
+    "rating": 3.5,
+    "distance": 3.8
+  },
+  {
+    "name": "Royal Stay DEL-68",
+    "destination": "Delhi",
+    "price": 7562.12,
+    "rating": 3.8,
+    "distance": 7.8
+  },
+  {
+    "name": "Seaside Resort KAN-69",
+    "destination": "Kanpur",
+    "price": 9273.11,
+    "rating": 3.7,
+    "distance": 2.3
+  },
+  {
+    "name": "Mountain View GOA-70",
+    "destination": "Goa",
+    "price": 10067.67,
+    "rating": 3.2,
+    "distance": 5.3
+  },
+  {
+    "name": "Royal Stay JAI-71",
+    "destination": "Jaipur",
+    "price": 6003.77,
+    "rating": 4.5,
+    "distance": 9.3
+  },
+  {
+    "name": "Seaside Resort LUC-72",
+    "destination": "Lucknow",
+    "price": 7935.58,
+    "rating": 4.8,
+    "distance": 1.6
+  },
+  {
+    "name": "Serenity Suites LUC-73",
+    "destination": "Lucknow",
+    "price": 7463.42,
+    "rating": 3.8,
+    "distance": 1.1
+  },
+  {
+    "name": "Royal Stay RIS-74",
+    "destination": "Rishikesh",
+    "price": 11000.47,
+    "rating": 3.6,
+    "distance": 8.5
+  },
+  {
+    "name": "Ocean Pearl KAN-75",
+    "destination": "Kanpur",
+    "price": 3468.21,
+    "rating": 3.9,
+    "distance": 4.5
+  },
+  {
+    "name": "Seaside Resort MUM-76",
+    "destination": "Mumbai",
+    "price": 4326.45,
+    "rating": 4.5,
+    "distance": 9.1
+  },
+  {
+    "name": "Comfort Inn RIS-77",
+    "destination": "Rishikesh",
+    "price": 2395.16,
+    "rating": 3.1,
+    "distance": 3.3
+  },
+  {
+    "name": "Skyline Hotel MUM-78",
+    "destination": "Mumbai",
+    "price": 6563.55,
+    "rating": 4.3,
+    "distance": 7.1
+  },
+  {
+    "name": "Skyline Hotel DEL-79",
+    "destination": "Delhi",
+    "price": 5568.7,
+    "rating": 3.9,
+    "distance": 3.3
+  },
+  {
+    "name": "Palm View Inn MUM-80",
+    "destination": "Mumbai",
+    "price": 7315.22,
+    "rating": 3.8,
+    "distance": 0.6
+  },
+  {
+    "name": "Comfort Inn KER-81",
+    "destination": "Kerala",
+    "price": 10734.82,
+    "rating": 4.7,
+    "distance": 6.3
+  },
+  {
+    "name": "Skyline Hotel DEL-82",
+    "destination": "Delhi",
+    "price": 10291.78,
+    "rating": 4.9,
+    "distance": 8.3
+  },
+  {
+    "name": "Seaside Resort LUC-83",
+    "destination": "Lucknow",
+    "price": 3863.71,
+    "rating": 4.6,
+    "distance": 8.8
+  },
+  {
+    "name": "Ocean Pearl JAI-84",
+    "destination": "Jaipur",
+    "price": 7802.03,
+    "rating": 4.2,
+    "distance": 5.4
+  },
+  {
+    "name": "Palm View Inn MUM-85",
+    "destination": "Mumbai",
+    "price": 3229.4,
+    "rating": 4.8,
+    "distance": 5.3
+  },
+  {
+    "name": "Blue Lagoon RIS-86",
+    "destination": "Rishikesh",
+    "price": 8268.35,
+    "rating": 3.6,
+    "distance": 4.6
+  },
+  {
+    "name": "Palm View Inn VAR-87",
+    "destination": "Varanasi",
+    "price": 2635.79,
+    "rating": 4.4,
+    "distance": 8.6
+  },
+  {
+    "name": "Seaside Resort DEH-88",
+    "destination": "Dehradun",
+    "price": 9671.46,
+    "rating": 3.4,
+    "distance": 1.3
+  },
+  {
+    "name": "Serenity Suites KAN-89",
+    "destination": "Kanpur",
+    "price": 6444.78,
+    "rating": 3.9,
+    "distance": 8.7
+  },
+  {
+    "name": "Blue Lagoon VAR-90",
+    "destination": "Varanasi",
+    "price": 11742.89,
+    "rating": 4.5,
+    "distance": 1.1
+  },
+  {
+    "name": "Blue Lagoon DEL-91",
+    "destination": "Delhi",
+    "price": 2557.55,
+    "rating": 4.9,
+    "distance": 4.1
+  },
+  {
+    "name": "Seaside Resort DEH-92",
+    "destination": "Dehradun",
+    "price": 7393.18,
+    "rating": 4.3,
+    "distance": 3.2
+  },
+  {
+    "name": "Seaside Resort DEL-93",
+    "destination": "Delhi",
+    "price": 4610.34,
+    "rating": 4.7,
+    "distance": 1.6
+  },
+  {
+    "name": "Comfort Inn DEH-94",
+    "destination": "Dehradun",
+    "price": 10871.23,
+    "rating": 3.5,
+    "distance": 5.4
+  },
+  {
+    "name": "Skyline Hotel GOA-95",
+    "destination": "Goa",
+    "price": 7690.63,
+    "rating": 4.2,
+    "distance": 9.3
+  },
+  {
+    "name": "Palm View Inn DEL-96",
+    "destination": "Delhi",
+    "price": 11524.97,
+    "rating": 3.9,
+    "distance": 6.3
+  },
+  {
+    "name": "Comfort Inn KAN-97",
+    "destination": "Kanpur",
+    "price": 6517.53,
+    "rating": 3.6,
+    "distance": 7.8
+  },
+  {
+    "name": "Urban Nest GOA-98",
+    "destination": "Goa",
+    "price": 2753.72,
+    "rating": 4.7,
+    "distance": 9.0
+  },
+  {
+    "name": "Palm View Inn JAI-99",
+    "destination": "Jaipur",
+    "price": 8562.34,
+    "rating": 3.7,
+    "distance": 3.3
+  },
+  {
+    "name": "Blue Lagoon LUC-100",
+    "destination": "Lucknow",
+    "price": 4491.12,
+    "rating": 4.2,
+    "distance": 1.3
+  }
+]
